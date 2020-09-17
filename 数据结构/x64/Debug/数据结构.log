@@ -1,0 +1,11 @@
+﻿  main.c
+d:\vs\数据结构\数据结构\main.c(13): warning C4013: “time”未定义；假设外部返回 int
+  methods.cpp
+d:\vs\数据结构\数据结构\methods.cpp(89): warning C4715: “InitList­_Sq”: 不是所有的控件路径都返回值
+d:\vs\数据结构\数据结构\methods.cpp(61): warning C4715: “InitQueue_Sq”: 不是所有的控件路径都返回值
+d:\vs\数据结构\数据结构\methods.cpp(67): warning C4715: “EnQueue_Sq”: 不是所有的控件路径都返回值
+d:\vs\数据结构\数据结构\methods.cpp(99): warning C4715: “Append­_Sq”: 不是所有的控件路径都返回值
+main.obj : error LNK2019: 无法解析的外部符号 InitStack_Sq，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 Push_Sq，该符号在函数 main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 Get_Sq，该符号在函数 main 中被引用
+D:\vs\数据结构\x64\Debug\数据结构.exe : fatal error LNK1120: 3 个无法解析的外部命令

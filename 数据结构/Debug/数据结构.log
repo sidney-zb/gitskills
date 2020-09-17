@@ -1,0 +1,5 @@
+﻿  main.c
+d:\vs\数据结构\数据结构\main.c(9): warning C4101: “L”: 未引用的局部变量
+d:\vs\数据结构\数据结构\main.c(7): warning C4101: “c”: 未引用的局部变量
+  数据结构.vcxproj -> D:\vs\数据结构\Debug\数据结构.exe
+  数据结构.vcxproj -> D:\vs\数据结构\Debug\数据结构.pdb (部分 -> 完整 PDB)
